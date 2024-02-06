@@ -1,0 +1,6 @@
+[submodule "packages/test_module2"]
+	path = packages/test_module2
+	url = https://github.com/xies4/test_module2.git
+[submodule "packages/test_module1"]
+	path = packages/test_module1
+	url = https://github.com/xies4/test_module1.git
